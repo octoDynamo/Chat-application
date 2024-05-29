@@ -23,6 +23,7 @@ git clone https://github.com/octoDynamo/Chat-application
 ###  Navigate to the project directory:
 ```
 cd Chat-application
+cd Codes
 ```
 
 ### Compile the source codes:
